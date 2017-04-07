@@ -6391,7 +6391,7 @@ button.close {
               basa su filosofía de desarrollo en la diferenciación. Para añadir un elemento externo a la página 
               (imagen, vídeo, script, entre otros.), este no se incrusta directamente en el código de la página, 
               sino que se hace una referencia a la ubicación de dicho elemento mediante texto.</p>
-          <p><a class="btn btn-default" href="http://localhost:8383/Mi%20p%C3%A1gina/ProgHtml.html" role="button">Más detalles &raquo;</a></p>
+          <p><a class="btn btn-default" href="https://github.com/saarvec/saarvec.github.io/blob/master/HTML.md" role="button">Más detalles &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>Programación con Visual Básic</h2>
@@ -6399,7 +6399,7 @@ button.close {
               Visual Basic contiene un entorno de desarrollo integrado o IDE que integra editor de textos para edición del código fuente, 
               un depurador, un compilador (y enlazador) y un editor de interfaces gráficas o GUI. 
           </p>
-          <p><a class="btn btn-default" href="http://localhost:8383/Mi%20p%C3%A1gina/ProgVisual.html" role="button">Más detalles &raquo;</a></p>
+          <p><a class="btn btn-default" href="https://github.com/saarvec/saarvec.github.io/blob/master/Visual.md" role="button">Más detalles &raquo;</a></p>
        </div>
         <div class="col-md-4">
           <h2>Programación con Pseint</h2>
@@ -6409,7 +6409,7 @@ button.close {
               minimizando las dificultades propias de un lenguaje y proporcionando un entorno de trabajo con numerosas ayudas 
               y recursos didácticos.
           </p>
-          <p><a class="btn btn-default" href="http://localhost:8383/Mi%20p%C3%A1gina/ProgPseint.html" role="button">Más detalles &raquo;</a></p>
+          <p><a class="btn btn-default" href="https://github.com/saarvec/saarvec.github.io/blob/master/Pseint.md" role="button">Más detalles &raquo;</a></p>
         </div>
       </div>
 
