@@ -6373,6 +6373,7 @@ button.close {
       <div class="container">
         <h1>Sarvec Tutorials!</h1>
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
+        <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a></p>
       </div>
     </div>
     <div class="container">
@@ -6572,8 +6573,7 @@ button.close {
           <p><a class="btn btn-default" href="#" role="button">Más detalles &raquo;</a></p>
        </div> -->
          <hr>
-       <p>&copy; Sarvec 2017</p> 
-      </footer>
+       <p>&copy; Sarvec 2017    saarvec@gmail.com</p> 
     </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>');</script>
 
