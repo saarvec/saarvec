@@ -6368,7 +6368,6 @@ button.close {
         </div><!--/.navbar-collapse -->
       </div>
     </nav>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
@@ -6376,7 +6375,6 @@ button.close {
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
       </div>
     </div>
-
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
@@ -6422,7 +6420,7 @@ button.close {
        <!-- <p><a class="btn btn-primary btn-lg" href="#" role="button">Leer más &raquo;</a></p> -->
       </div>
     </div>
-
+   <hr>
     <div class="container">
       <!-- Example row of columns -->
           <h2>HTML 5</h2>
