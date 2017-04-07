@@ -6391,7 +6391,7 @@ button.close {
               basa su filosofía de desarrollo en la diferenciación. Para añadir un elemento externo a la página 
               (imagen, vídeo, script, entre otros.), este no se incrusta directamente en el código de la página, 
               sino que se hace una referencia a la ubicación de dicho elemento mediante texto.</p>
-          <p><a class="btn btn-default" href="http://localhost:8383/Mi%20p%C3%A1gina/ProgHtml.html" role="button">Más detalles &raquo;</a></p>
+          <p><a class="btn btn-default" href="https://github.com/saarvec/saarvec.github.io/blob/master/HTML5.html" role="button">Más detalles &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>Programación con Visual Básic</h2>
