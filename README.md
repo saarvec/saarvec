@@ -6395,7 +6395,7 @@ button.close {
               Visual Basic contiene un entorno de desarrollo integrado o IDE que integra editor de textos para edición del código fuente, 
               un depurador, un compilador (y enlazador) y un editor de interfaces gráficas o GUI. 
           </p>
-          <p><a class="btn btn-default" href="" role="button">Más detalles &raquo;</a></p>
+          <p><a class="btn btn-default" href="https://msdn.microsoft.com/es-es/library/dd831853.aspx" role="button">Libreria &raquo;</a></p>
        </div>
         <div class="col-md-4">
           <h2>Programación con Pseint</h2>
