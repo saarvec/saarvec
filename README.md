@@ -6376,7 +6376,7 @@ button.close {
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Sarvec Tutorials!</h1>
+        <h1>Hola Ninfa!</h1>
         <p>Este es un ejemplo que si puedo programar Web, y tambien muestro que crear una pagina Web es pan comido gracias a BOOTSTRAP</p>
       </div>
     </div>
