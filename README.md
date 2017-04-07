@@ -6353,7 +6353,7 @@ button.close {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Aula Virtual IHER</a>
+          <a class="navbar-brand" href="#">INFORMÁTICA IHER</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-right" role="form">
@@ -6363,7 +6363,7 @@ button.close {
             <div class="form-group">
               <input type="password" placeholder="Password" class="form-control">
             </div>
-            <button type="submit" class="btn btn-success">Sign in</button>
+            <button type="submit" class="btn btn-success">Registrarse</button>
           </form>
         </div><!--/.navbar-collapse -->
       </div>
