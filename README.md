@@ -6406,7 +6406,7 @@ button.close {
           <p><a class="btn btn-default" href="" role="button">Más detalles &raquo;</a></p>
         </div>
       </div>
-
+  <hr>
 <div class="jumbotron">
       <div class="container">
         <h1>HTML</h1>
@@ -6420,7 +6420,6 @@ button.close {
        <!-- <p><a class="btn btn-primary btn-lg" href="#" role="button">Leer más &raquo;</a></p> -->
       </div>
     </div>
-   <hr>
     <div class="container">
       <!-- Example row of columns -->
           <h2>HTML 5</h2>
@@ -6459,9 +6458,118 @@ button.close {
           </p>
           <h2>Adobe Dreamweaver</h2>
           <p><a class="btn btn-default" href="http://www.adobe.com/la/products/dreamweaver.html" role="button">Descargar &raquo;</a></p>
-          
+        
+        <hr>
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Visual Basic</h1>
+        <p>Visual Basic (VB) es un lenguaje de programación dirigido por eventos, desarrollado por Alan Cooper para Microsoft.Visual Basic contiene un entorno de desarrollo integrado o IDE que integra editor de textos para edición del código fuente, un depurador, un compilador (y enlazador) y un editor de interfaces gráficas o GUI.</p>
+       <!-- <p><a class="btn btn-primary btn-lg" href="#" role="button">Leer más &raquo;</a></p> -->
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+          <h2>Visual Studio 2015</h2>
+          <p>Visual Studio Professional 2015 con Update 3 proporciona servicios y herramientas de desarrollo 
+              profesionales para desarrolladores individuales y pequeños equipos. 
+              Cree aplicaciones para varios dispositivos, equipos y la web, todas ellas con la tecnología de la nube y 
+              basadas en sus aplicaciones y habilidades existentes. Use las tecnologías de desarrollo multiplataforma para 
+              crear aplicaciones para Windows, Android e iOS a partir de una solución de desarrollo único y mucho más.</p>
+          <h2>Novedades de Visual Studio </h2>
+          <p>Visual Studio permite escribir código de manera precisa y eficiente sin perder el contexto del archivo actual. Puede acercar fácilmente los detalles, como la estructura de llamadas, las funciones relacionadas, las inserciones en el repositorio y el estado de las pruebas. También puede aprovechar nuestras funciones para refactorizar, identificar y corregir problemas de código.</p>
+          <p><a class="btn btn-default" href="#" role="button">Más detalles &raquo;</a></p>
+        
+       <!-- <div class="col-md-4">
+          <h2>Programación con Visual Básic</h2>
+          <p> </p>
+          <p><a class="btn btn-default" href="#" role="button">Más detalles &raquo;</a></p>
+       </div> -->
       <hr>
       <footer>
+       <div class="jumbotron">
+      <div class="container">
+        <h1>Pseint</h1>
+        <p>
+            Es una herramienta para asistir a un estudiante en sus primeros pasos en programación. 
+              Mediante un simple e intuitivo pseudolenguaje en español (complementado con un editor de diagramas de flujo), 
+              le permite centrar su atención en los conceptos fundamentales de la algoritmia computacional, 
+              minimizando las dificultades propias de un lenguaje y proporcionando un entorno de trabajo con numerosas ayudas 
+              y recursos didácticos.
+        </p>
+       <!-- <p><a class="btn btn-primary btn-lg" href="#" role="button">Leer más &raquo;</a></p> -->
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+          <h2>¿Para que sirve PSeInt?</h2>
+          <p>
+            PSeInt está pensado para asistir a los estudiantes que se inician en la construcción de programas
+            o algoritmos computacionales. El pseudocódigo se suele utilizar como primer contacto para introducir 
+            conceptos básicos como el uso de estructuras de control, expresiones, variables, etc, sin tener que lidiar 
+            con las particularidades de la sintaxis de un lenguaje real. Este software pretende facilitarle al principiante 
+            la tarea de escribir algoritmos en este pseudolenguaje presentando un conjunto de ayudas y asistencias,
+            y brindarle ademas algunas herramientas adicionales que le ayuden a encontrar errores y 
+            comprender la lógica de los algoritmos.
+          </p>
+          <h2>Caracteristicas y Funcionalidades de PSeInt:</h2>
+        
+         
+         <style type="text/css">
+         ul {
+              list-style-type:square;} 
+              </style>
+          <ul>
+          <li>Presenta herramientas de edición para escribir algoritmos en pseudocodigo en español
+              <ul>
+                 <li>Autocompletado</li>
+                 <li>Ayudas Emergentes</li>
+                 <li>Plantillas de Comandos</li>
+                 <li>Coloreado de Sintaxis</li>
+                 <li>Resaltado de bloques lógicos</li>
+                 <li>Indentado Inteligente</li>
+                 <li>Listados de funciones, operadores y variables</li>
+              </ul>
+            </li>
+            
+                 <li>Puede interpretar (ejecutar) los algoritmos escritos
+                 <ul>
+                 <li>Puede modificar el algoritmo y ver los cambios en la ejecución inmediatamente (sin reingresar los datos)</li>
+                 <li>Permite modificar uno o más datos selectos de una ejecución ya finalizada para observar cómo varían los resultados</li>
+                 <li>Permite deshacer una ejecución para reiniciarla o repetirla desde un punto arbitrario</li>
+                 <li>Permite ejecutar el algoritmo paso a paso controlando la velocidad e inspeccionando variables y expresiones</li>
+                 <li>Puede confeccionar automáticamente una tabla de prueba de escritorio</li>
+                 <li>Ofrece un modo especial en el que describe las acciones realizadas en cada paso</li>
+              </ul>
+            </li>
+            
+            <li>Determina y marca claramente los errores
+                <ul>
+                    <li>Señala errores de sintaxis en tiempo real (mientras escribe)</li>
+                    <li>Señala claramente errores en tiempo de ejecucion</li>
+                    <li>Ofrece descripciones detalladas de cada error, con sus causas y soluciones más frecuentes</li>
+                </ul>
+            </li>
+            
+            <li>Permite convertir el algoritmo de pseudocodigo a código numerosos lenguajes de programación
+                <ul>
+                    <li>C, C++, C#, Java, JavaScript, MatLab, Pascal, PHP, Python 2, Python 3, Visual Basic</li>
+                </ul>
+            </li>
+           </ul>
+        
+              
+     <p><a class="btn btn-primary btn-lg" href="http://pseint.sourceforge.net/index.php?page=descargas.php" role="button">Descargar &raquo;</a></p>
+    <p><a class="btn btn-primary btn-lg" href="https://www.youtube.com/watch?v=yNxiGKIbKl4&index=1&list=PLmOBliNqnOEK-2VHxCH9vUUvD2l5F3cVW" role="button">Tutoriales &raquo;</a></p>
+  
+          
+       <!-- <div class="col-md-4">
+          <h2>Programación con Visual Básic</h2>
+          <p> </p>
+          <p><a class="btn btn-default" href="#" role="button">Más detalles &raquo;</a></p>
+       </div> -->
+         <hr>
        <p>&copy; Sarvec 2017</p> 
       </footer>
     </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
@@ -6480,14 +6588,3 @@ button.close {
             r.parentNode.insertBefore(e,r);}(window,document,'script','ga'));
             ga('create','UA-XXXXX-X','auto');ga('send','pageview');
         </script>
-  
-
-
-
-     
-         
-
-    
-    
-        
-      
