@@ -6454,10 +6454,10 @@ button.close {
              <br>El IDE, también ofrece excelentes herramientas para desarrolladores de PHP y C / C ++. 
              <br>Esta es una fuente libre, abierta, y la comunidad a gran escala se forma consistente 
              en los usuarios y desarrolladores de todo el mundo. 
-              <p><a class="btn btn-default" href="https://netbeans.org/downloads/" role="button">Descargar &raquo;</a></p>
-          </p>
+        <p><a class="btn btn-primary btn-lg" href="https://netbeans.org/downloads/" role="button">Descargar &raquo;</a></p>
           <h2>Adobe Dreamweaver</h2>
-          <p><a class="btn btn-default" href="http://www.adobe.com/la/products/dreamweaver.html" role="button">Descargar &raquo;</a></p>
+<p><a class="btn btn-primary btn-lg" href="http://www.adobe.com/la/products/dreamweaver.html" role="button">Descargar &raquo;</a></p>
+          
         
         <hr>
     <div class="jumbotron">
@@ -6478,7 +6478,9 @@ button.close {
               crear aplicaciones para Windows, Android e iOS a partir de una solución de desarrollo único y mucho más.</p>
           <h2>Novedades de Visual Studio </h2>
           <p>Visual Studio permite escribir código de manera precisa y eficiente sin perder el contexto del archivo actual. Puede acercar fácilmente los detalles, como la estructura de llamadas, las funciones relacionadas, las inserciones en el repositorio y el estado de las pruebas. También puede aprovechar nuestras funciones para refactorizar, identificar y corregir problemas de código.</p>
-          <p><a class="btn btn-default" href="#" role="button">Más detalles &raquo;</a></p>
+ <p><a class="btn btn-primary btn-lg" href="https://www.visualstudio.com/es/downloads/" role="button">Descargar &raquo;</a></p>
+    <p><a class="btn btn-primary btn-lg" href="https://www.youtube.com/watch?v=HqLBaRPk5y8" role="button">Como descargar e Instalar Visual Studio &raquo;</a></p>
+    <p><a class="btn btn-primary btn-lg" href="https://www.youtube.com/watch?v=3U1uH3uPM-4" role="button">Crear una base de datos en Visual Studio &raquo;</a></p>
         
        <!-- <div class="col-md-4">
           <h2>Programación con Visual Básic</h2>
