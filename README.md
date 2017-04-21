@@ -6374,13 +6374,10 @@ button.close {
         <h1>Sarvec Tutorials!</h1>
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
         
-        
-        
-<button type="button" class="btn btn-info" href="https://www.facebook.com/infoIHER/" role="button" >Facebook &raquo;</button>
-<button type="button" class="btn btn-info" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button" >Programas Radiales &raquo;</button>        
+             
 
-        
-       
+<a class="btn btn-info" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
+<a class="btn btn-info" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
       </div>
     </div>
