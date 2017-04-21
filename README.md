@@ -6376,8 +6376,8 @@ button.close {
         
              
 
-<a class="btn btn-info" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
-<a class="btn btn-info" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
+<a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
+<a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
       </div>
     </div>
