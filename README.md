@@ -6379,21 +6379,11 @@ button.close {
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Facebook &raquo;</button>
 
 <div class="modal fade bs-example-modal-lg" tabindex="-1" href="https://www.facebook.com/infoIHER/" role="button" aria-labelledby="myLargeModalLabel">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      ...
-    </div>
-  </div>
 </div>
 
 <!-- Small modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Programas Radiales &raquo;</button>
 <div class="modal fade bs-example-modal-sm" tabindex="-1" href="https://honduras.elmaestroencasa.com/clasesradiales.html"  role="button" aria-labelledby="mySmallModalLabel">
-  <div class="modal-dialog modal-sm" role="document">
-    <div class="modal-content">
-      ...
-    </div>
-  </div>
 </div>
         
         
