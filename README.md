@@ -6375,23 +6375,10 @@ button.close {
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
         
         
-        
-        <!-- Botones Agrupados-->
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Open modal for @mdo</button>
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@fat">Open modal for @fat</button>
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@getbootstrap">Open modal for @getbootstrap</button>
-...more buttons...
-        
-        
-        <!-- Enlaces paginas amigas-->
-        <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a></p>
-        <p><a class="btn btn-primary btn-lg" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a></p>
-        
-        
         <!-- Large modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Large modal</button>
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Facebook &raquo;</button>
 
-<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+<div class="modal fade bs-example-modal-lg" tabindex="-1" href="https://www.facebook.com/infoIHER/" role="button" aria-labelledby="myLargeModalLabel">
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       ...
@@ -6400,9 +6387,8 @@ button.close {
 </div>
 
 <!-- Small modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Small modal</button>
-
-<div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Programas Radiales &raquo;</button>
+<div class="modal fade bs-example-modal-sm" tabindex="-1" href="https://honduras.elmaestroencasa.com/clasesradiales.html"  role="button" aria-labelledby="mySmallModalLabel">
   <div class="modal-dialog modal-sm" role="document">
     <div class="modal-content">
       ...
