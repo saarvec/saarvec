@@ -6373,6 +6373,17 @@ button.close {
       <div class="container">
         <h1>Sarvec Tutorials!</h1>
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
+        
+        
+        
+        <!-- Botones Agrupados-->
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Open modal for @mdo</button>
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@fat">Open modal for @fat</button>
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@getbootstrap">Open modal for @getbootstrap</button>
+...more buttons...
+        
+        
+        <!-- Enlaces paginas amigas-->
         <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a></p>
         <p><a class="btn btn-primary btn-lg" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a></p>
         
@@ -6400,7 +6411,7 @@ button.close {
 </div>
         
         
-        
+        <!-- Botones desplegables -->
      
         <div class="btn-group">
   <button type="button" class="btn btn-default dropdown-toggle"
