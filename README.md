@@ -6375,33 +6375,12 @@ button.close {
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
         
         
-        <!-- Large modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Facebook &raquo;</button>
-
-<div class="modal fade bs-example-modal-lg" tabindex="-1" href="https://www.facebook.com/infoIHER/" role="button" aria-labelledby="myLargeModalLabel">
-</div>
-
-<!-- Small modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Programas Radiales &raquo;</button>
-<div class="modal fade bs-example-modal-sm" tabindex="-1" href="https://honduras.elmaestroencasa.com/clasesradiales.html"  role="button" aria-labelledby="mySmallModalLabel">
-</div>
         
+<button type="button" class="btn btn-info" href="https://www.facebook.com/infoIHER/" role="button" >Facebook &raquo;</button>
+<button type="button" class="btn btn-info" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button" >Programas Radiales &raquo;</button>        
+
         
-        <!-- Botones desplegables -->
-     
-        <div class="btn-group">
-  <button type="button" class="btn btn-default dropdown-toggle"
-          data-toggle="dropdown">
-    Programación  <span class="caret"></span>
-  </button>
-  <ul class="dropdown-menu" role="menu">
-    <li><a href="https://www.youtube.com/watch?v=HqLBaRPk5y8">Crear Bases de Datos en Acces</a></li>
-    <li><a href="https://www.youtube.com/watch?v=HqLBaRPk5y8">Crear Bases de Datos en Visual</a></li>
-    <li><a href="https://www.youtube.com/watch?v=HqLBaRPk5y8">Adivinar tu edad en Pseint</a></li>
-    <li class="divider"></li>
-    <li><a href="https://www.youtube.com/watch?v=HqLBaRPk5y8">Crear una Macros en Excel</a></li>
-  </ul>
-</div>
+       
 
       </div>
     </div>
