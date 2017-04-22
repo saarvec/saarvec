@@ -6440,6 +6440,20 @@ button.close {
   </ul>
 </div>
 
+<select name="OS">
+   <option selected value="0"> Elige una opción </option>
+       <optgroup label="Microsoft"> 
+       <option value="1">Windows Vista</option> 
+       <option value="2">Windows 7</option> 
+       <option value="3">Windows XP</option> 
+   </optgroup> 
+   <optgroup label="Linux"> 
+       <option value="10">Fedora</option> 
+       <option value="11">Debian</option> 
+       <option value="12">Suse</option> 
+   </optgroup> 
+</select>
+
       </div>
     </div>
     <div class="container">
