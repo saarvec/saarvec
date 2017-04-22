@@ -6425,13 +6425,13 @@ button.close {
 <a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
 
-<div class="btn-group">
-  <button type="button" class="btn btn-default dropdown-toggle"
+<div class="btn btn-success">
+  <button type="button" class="btn btn-default"
           data-toggle="dropdown">
     Título del botón <span class="caret"></span>
   </button>
  
-  <ul class="dropdown-menu" role="menu">
+  <ul class="dropdown-menu" role="button">
     <li><a href="#">Acción #1</a></li>
     <li><a href="#">Acción #2</a></li>
     <li><a href="#">Acción #3</a></li>
@@ -6439,53 +6439,6 @@ button.close {
     <li><a href="#">Acción #4</a></li>
   </ul>
 </div>
-
-<div id="header">
-			<ul class="nav">
-				<li><a href="">Inicio</a></li>
-				<li><a href="">Servicios</a>
-					<ul>
-						<li><a href="">Submenu1</a></li>
-						<li><a href="">Submenu2</a></li>
-						<li><a href="">Submenu3</a></li>
-						<li><a href="">Submenu4</a>
-							<ul>
-								<li><a href="">Submenu1</a></li>
-								<li><a href="">Submenu2</a></li>
-								<li><a href="">Submenu3</a></li>
-								<li><a href="">Submenu4</a></li>
-							</ul>
-						</li>
-					</ul>
-				</li>
-				<li><a href="">Acerca de</a>
-					<ul>
-						<li><a href="">Submenu1</a></li>
-						<li><a href="">Submenu2</a></li>
-						<li><a href="">Submenu3</a></li>
-						<li><a href="">Submenu4</a></li>
-					</ul>
-				</li>
-				<li><a href="">Contacto</a></li>
-			</ul>
-		</div>
-
-
-
-<select name="OS">
-   <option selected value="0"> Elige una opción </option>
-       <optgroup label="Microsoft"> 
-       <option value="1">Windows Vista</option> 
-       <option value="2">Windows 7</option> 
-       <option value="3">Windows XP</option> 
-   </optgroup> 
-   <optgroup label="Linux"> 
-       <option value="10">Fedora</option> 
-       <option value="11">Debian</option> 
-       <option value="12">Suse</option> 
-   </optgroup> 
-</select>
-
       </div>
     </div>
     <div class="container">
