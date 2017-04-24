@@ -6485,21 +6485,21 @@ h2 {
 <section id="accordion">
       <div>
         <input type="checkbox" id="check-1" />
-        <label for="check-1">Option 1</label>
+        <label for="check-1">11 Informática</label>
         <article>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, odit, quia hic ipsam laboriosam dignissimos suscipit eligendi! Aspernatur, ad, suscipit officiis repellat consequuntur quod quibusdam sint nobis magnam voluptates veritatis?</p>
+          <p><a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a></p>
         </article>
       </div>
       <div>
         <input type="checkbox" id="check-2" />
-        <label for="check-2">Option 2</label>
+        <label for="check-2">12 Informática</label>
         <article>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, doloremque maiores excepturi iste porro cumque rem praesentium illo labore error quasi magni cupiditate rerum sequi dolores architecto consectetur harum soluta neque placeat culpa nesciunt molestias quam facilis ipsum ab aspernatur ut similique aperiam nemo tempore earum esse repellat provident eum blanditiis tempora molestiae! Optio, asperiores neque nam reiciendis ad rerum.</p>
         </article>
       </div>
       <div>
         <input type="checkbox" id="check-3" />
-        <label for="check-3">Option 3</label>
+        <label for="check-3">Complementos</label>
         <article>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, ipsum ratione eos voluptates unde ut sint maiores nobis iste odit. Maiores, voluptatum, dolorem, deleniti debitis est ea numquam nesciunt in rerum fuga neque quas laudantium quo laboriosam doloremque nemo ab itaque aliquid accusamus accusantium veritatis consectetur necessitatibus iure soluta blanditiis facere quam aperiam suscipit obcaecati voluptatem tempore delectus temporibus culpa! Repellendus, maiores at itaque soluta voluptatum est iusto dolor ex fuga animi debitis necessitatibus consectetur. Dignissimos, optio, saepe, quos dolorum pariatur voluptatum quasi eveniet ipsam fugit accusantium voluptate ducimus cupiditate ullam nostrum unde eaque necessitatibus maxime sunt incidunt aliquid accusamus.</p>
         </article>
