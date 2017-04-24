@@ -6487,9 +6487,12 @@ h2 {
         <input type="checkbox" id="check-1" />
         <label for="check-1">11 Informática</label>
         <article>
-          <p><a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
-          <a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
-          </p>
+ <p>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=VWM4SHfQ9xk" role="button">Formulario en Word </a>
+ <a class="btn btn-success" href="= https://www.youtube.com/watch?v=0KpX8ZNR8-k&feature=youtu.be" role="button">Calculo de edad en Pseint </a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=0xOTirTCHVc&feature=youtu.be" role="button">Promedio en Pseint</a>
+ <a class="btn btn-success" href="" role="button"></a>
+                                 </p>
         </article>
       </div>
       <div>
