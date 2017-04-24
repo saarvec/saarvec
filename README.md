@@ -6516,7 +6516,7 @@ h2 {
         <label for="check-2">12 Informática</label>
         <article>
 <ul>
- <li><a class="btn btn-success" href="https://www.youtube.com/watch?v=Z9UsN1aG7p4&t=29s" role="button">BD Access </a></li>
+ <li><a class="btn btn-link" href="https://www.youtube.com/watch?v=Z9UsN1aG7p4&t=29s" role="button">BD Access </a></li>
  <li><a class="btn btn-success" href="https://www.youtube.com/watch?v=h0-CK_ytyU0" role="button">BD Access y visual </a></li>
  <li><a class="btn btn-success" href="https://www.youtube.com/watch?v=csBElv26bfw&feature=youtu.be" role="button">Encuesta Visual</a></li>
 <li><a class="btn btn-success" href="https://www.youtube.com/watch?v=Sqvp8LJBb74" role="button">Camtasia Studio </a></li>
