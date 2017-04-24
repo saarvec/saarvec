@@ -6425,20 +6425,7 @@ button.close {
 <a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
 
-<div class="btn btn-success">
-  <button type="button" class="btn btn-default"
-          data-toggle="dropdown">
-    Título del botón <span class="caret"></span>
-  </button>
- 
-  <ul class="dropdown-menu" role="button">
-    <li><a href="#">Acción #1</a></li>
-    <li><a href="#">Acción #2</a></li>
-    <li><a href="#">Acción #3</a></li>
-    <li class="divider"></li>
-    <li><a href="#">Acción #4</a></li>
-  </ul>
-</div>
+
       </div>
     </div>
     <div class="container">
