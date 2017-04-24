@@ -6486,6 +6486,7 @@ h2 {
       <div>
         <input type="checkbox" id="check-1" />
         <label for="check-1">11 Informática</label>
+        <article>
          <ul>
  <li><a class="btn btn-success" href="https://www.youtube.com/watch?v=VWM4SHfQ9xk" role="button">Formulario en Word </a></li>
  <li><a class="btn btn-success" href="= https://www.youtube.com/watch?v=0KpX8ZNR8-k&feature=youtu.be" role="button">Calculo de edad en Pseint </a></li>
@@ -6512,6 +6513,7 @@ h2 {
   <a class="btn btn-success" href="https://www.youtube.com/watch?v=EQzmFQbkGu8&feature=youtu.be" role="button">Presentación PowerPoint</a>
    <a class="btn btn-success" href="https://www.youtube.com/watch?v=pohiQxk724c&feature=youtu.be" role="button">Formulario Word </a>
                                  </p>
+         </article>
         
       </div>
       <div>
