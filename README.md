@@ -6491,7 +6491,18 @@ h2 {
  <a class="btn btn-success" href="https://www.youtube.com/watch?v=VWM4SHfQ9xk" role="button">Formulario en Word </a>
  <a class="btn btn-success" href="= https://www.youtube.com/watch?v=0KpX8ZNR8-k&feature=youtu.be" role="button">Calculo de edad en Pseint </a>
  <a class="btn btn-success" href="https://www.youtube.com/watch?v=0xOTirTCHVc&feature=youtu.be" role="button">Promedio en Pseint</a>
- <a class="btn btn-success" href="" role="button"></a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=_3Xem08-Evk&feature=youtu.be" role="button">Área y perímetro Visual</a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=qxjHtI8H_3Q&feature=youtu.be" role="button">Animaciones PowerPoint</a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=3ZplM5rRIXg&feature=youtu.be" role="button">Editar video PowerPoint</a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=RrFY0Y-O59A&feature=youtu.be" role="button">Diploma en Publisher</a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=K6PijzOGYg0&feature=youtu.be" role="button">Presentación en PowerPoint</a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=UUrwU4u-C1k&feature=youtu.be" role="button">Crear tabla Word</a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=TKMqp0koBNE&feature=youtu.be" role="button">Crear macros en Excel</a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=Bz75HTCXHdU&feature=youtu.be" role="button">Formulario en Word</a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=AKONyhc9RUI&feature=youtube_gdata_player" role="button">Promedio notas Pseint</a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=zTumkFbl4NI&feature=youtu.be" role="button">Presentación PowerPoint </a>
+  <a class="btn btn-success" href="https://www.youtube.com/watch?v=EQzmFQbkGu8&feature=youtu.be" role="button">Presentación PowerPoint</a>
+   <a class="btn btn-success" href="https://www.youtube.com/watch?v=pohiQxk724c&feature=youtu.be" role="button">Formulario Word </a>
                                  </p>
         </article>
       </div>
@@ -6501,7 +6512,12 @@ h2 {
         <article>
 <p> <a class="btn btn-success" href="https://www.youtube.com/watch?v=Z9UsN1aG7p4&t=29s" role="button">BD Access </a>
  <a class="btn btn-success" href="https://www.youtube.com/watch?v=h0-CK_ytyU0" role="button">BD Access y visual </a>
-  <a class="btn btn-success" href="" role="button"></a>
+  <a class="btn btn-success" href="https://www.youtube.com/watch?v=csBElv26bfw&feature=youtu.be" role="button">Encuesta Visual</a>
+<a class="btn btn-success" href="https://www.youtube.com/watch?v=Sqvp8LJBb74" role="button">Camtasia Studio </a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=grlXG3BzCtc&feature=youtu.be" role="button">BD Visual </a>
+  <a class="btn btn-success" href="https://www.youtube.com/watch?v=ieO9Qie5Yt4" role="button">PhotoShop y Premier</a>
+   <a class="btn btn-success" href="" role="button"></a>
+   
                                        </p>
         </article>
       </div>
