@@ -6499,7 +6499,10 @@ h2 {
         <input type="checkbox" id="check-2" />
         <label for="check-2">12 Informática</label>
         <article>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, doloremque maiores excepturi iste porro cumque rem praesentium illo labore error quasi magni cupiditate rerum sequi dolores architecto consectetur harum soluta neque placeat culpa nesciunt molestias quam facilis ipsum ab aspernatur ut similique aperiam nemo tempore earum esse repellat provident eum blanditiis tempora molestiae! Optio, asperiores neque nam reiciendis ad rerum.</p>
+<p> <a class="btn btn-success" href="https://www.youtube.com/watch?v=Z9UsN1aG7p4&t=29s" role="button">BD Access </a>
+ <a class="btn btn-success" href="https://www.youtube.com/watch?v=h0-CK_ytyU0" role="button">BD Access y visual </a>
+  <a class="btn btn-success" href="" role="button"></a>
+                                       </p>
         </article>
       </div>
       <div>
