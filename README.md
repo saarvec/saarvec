@@ -6485,7 +6485,7 @@ h2 {
 <section id="accordion">
       <div>
         <input type="checkbox" id="check-1" />
-        <label for="check-1">11 Informática</label>
+        <label for="check-1">Tutoriales recomendados para 11 Informática</label>
         <article>
          <ul>
  <li><a class="btn btn-link" href="https://www.youtube.com/watch?v=VWM4SHfQ9xk">Formulario en Word </a></li>
@@ -6510,7 +6510,7 @@ h2 {
       
       <div>
         <input type="checkbox" id="check-2" />
-        <label for="check-2">12 Informática</label>
+        <label for="check-2">Tutoriales recomendados para 12 Informática</label>
         <article>
 <ul>
  <li><a class="btn btn-link" href="https://www.youtube.com/watch?v=Z9UsN1aG7p4&t=29s">BD Access </a></li>
@@ -6527,7 +6527,9 @@ h2 {
         <input type="checkbox" id="check-3" />
         <label for="check-3">Complementos</label>
         <article>
-          <p>Estamos trabajando en ellos</p>
+          <p>Estamos trabajando en ellos
+          <img src="https://2.bp.blogspot.com/-BAC8Tt04CKo/VzRsgPc1bWI/AAAAAAAAA1c/8YH1DAW2-0MI_dibj0VruFjDaxPsokFGQCLcB/s1600/estamos-trabajando.png" class="img-responsive" alt="Responsive image"></p>
+          
         </article>
       </div>
     </section>
