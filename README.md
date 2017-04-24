@@ -6487,7 +6487,9 @@ h2 {
         <input type="checkbox" id="check-1" />
         <label for="check-1">11 Informática</label>
         <article>
-          <p><a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a></p>
+          <p><a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
+          <a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
+          </p>
         </article>
       </div>
       <div>
