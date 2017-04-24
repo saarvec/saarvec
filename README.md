@@ -6515,29 +6515,22 @@ h2 {
         <input type="checkbox" id="check-2" />
         <label for="check-2">12 Informática</label>
         <article>
-<p> <a class="btn btn-success" href="https://www.youtube.com/watch?v=Z9UsN1aG7p4&t=29s" role="button">BD Access </a>
- <a class="btn btn-success" href="https://www.youtube.com/watch?v=h0-CK_ytyU0" role="button">BD Access y visual </a>
-  <a class="btn btn-success" href="https://www.youtube.com/watch?v=csBElv26bfw&feature=youtu.be" role="button">Encuesta Visual</a>
-<a class="btn btn-success" href="https://www.youtube.com/watch?v=Sqvp8LJBb74" role="button">Camtasia Studio </a>
- <a class="btn btn-success" href="https://www.youtube.com/watch?v=grlXG3BzCtc&feature=youtu.be" role="button">BD Visual </a>
-  <a class="btn btn-success" href="https://www.youtube.com/watch?v=ieO9Qie5Yt4" role="button">PhotoShop y Premier</a>
-   <a class="btn btn-success" href="" role="button"></a>
-   <li></li>
-                 <li></li>
-                 <li></li>
-                 <li></li>
-                 <li></li>
-                 <li></li>
-                 <li></li>
+<ul>
+ <li><a class="btn btn-success" href="https://www.youtube.com/watch?v=Z9UsN1aG7p4&t=29s" role="button">BD Access </a></li>
+ <li><a class="btn btn-success" href="https://www.youtube.com/watch?v=h0-CK_ytyU0" role="button">BD Access y visual </a></li>
+ <li><a class="btn btn-success" href="https://www.youtube.com/watch?v=csBElv26bfw&feature=youtu.be" role="button">Encuesta Visual</a></li>
+<li><a class="btn btn-success" href="https://www.youtube.com/watch?v=Sqvp8LJBb74" role="button">Camtasia Studio </a></li>
+<li><a class="btn btn-success" href="https://www.youtube.com/watch?v=grlXG3BzCtc&feature=youtu.be" role="button">BD Visual </a></li>
+<li><a class="btn btn-success" href="https://www.youtube.com/watch?v=ieO9Qie5Yt4" role="button">PhotoShop y Premier</a></li>
    
-                                       </p>
+           </ul>
         </article>
       </div>
       <div>
         <input type="checkbox" id="check-3" />
         <label for="check-3">Complementos</label>
         <article>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, ipsum ratione eos voluptates unde ut sint maiores nobis iste odit. Maiores, voluptatum, dolorem, deleniti debitis est ea numquam nesciunt in rerum fuga neque quas laudantium quo laboriosam doloremque nemo ab itaque aliquid accusamus accusantium veritatis consectetur necessitatibus iure soluta blanditiis facere quam aperiam suscipit obcaecati voluptatem tempore delectus temporibus culpa! Repellendus, maiores at itaque soluta voluptatum est iusto dolor ex fuga animi debitis necessitatibus consectetur. Dignissimos, optio, saepe, quos dolorum pariatur voluptatum quasi eveniet ipsam fugit accusantium voluptate ducimus cupiditate ullam nostrum unde eaque necessitatibus maxime sunt incidunt aliquid accusamus.</p>
+          <p>Estamos trabajando en ellos</p>
         </article>
       </div>
     </section>
