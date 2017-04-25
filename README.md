@@ -6474,7 +6474,7 @@ h2 {
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-     <!-- <img src="https://2.bp.blogspot.com/-BAC8Tt04CKo/VzRsgPc1bWI/AAAAAAAAA1c/8YH1DAW2-0MI_dibj0VruFjDaxPsokFGQCLcB/s1600/estamos-trabajando.png" class="img-responsive" alt="Responsive image"> -->
+     <!-- <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/INFO.png" class="img-responsive" alt="Responsive image"> -->
         <h1>Sarvec Tutorials!</h1>
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
         
