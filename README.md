@@ -6481,7 +6481,6 @@ h2 {
              
 
 <a class="btn btn-success"  href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
-<img src= "https://www.google.hn/search?q=facebook&rlz=1C5CHFA_enHN694HN694&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiLkPTixurTAhWBaCYKHfUtBzAQ_AUICigB&biw=1440&bih=803#imgrc=_6MHw7yGg6vGTM:">
 <a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
 <section id="accordion">
