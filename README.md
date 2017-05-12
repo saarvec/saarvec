@@ -6480,7 +6480,7 @@ h2 {
         
              
 
-<a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
+<a class="btn btn-success"  href="https://www.facebook.com/infoIHER/" role="button"><img src= " https://www.google.hn/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiDw_jmxurTAhUB2SYKHaUHD6gQjRwIBw&url=https%3A%2F%2Fwww.nl-ix.net%2Fnews%2Ffacebook%2F&psig=AFQjCNGyUdFjHGm40UZV5O6PoeBSRjns0A&ust=1494685300244082"></a>
 <a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
 <section id="accordion">
@@ -6526,7 +6526,7 @@ h2 {
       </div>
       <div>
         <input type="checkbox" id="check-3" />
-        <label for="check-3">¿Quieres saber más?, complementos de las clases</label>
+        <label for="check-3">¿Quieres saber más? Complementos de las clases</label>
         <article>
           <ul>
           <p> Este libro esta recomendado para los estudiantes que se vienen iniciando en la programación</p>
