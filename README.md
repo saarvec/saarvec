@@ -6477,15 +6477,14 @@ h2 {
      <!-- <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/INFO.png" class="img-responsive" alt="Responsive image"> -->
         <h1>Sarvec Tutorials!</h1>
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
-        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/INFO.png"/>
-     <a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
-   
+        <a href="https://www.facebook.com/infoIHER/"> <img src="https://www.google.hn/search?q=facebook&rlz=1C5CHFA_enHN694HN694&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjl1dvazerTAhUGRiYKHeowCoAQ_AUICigB&biw=1440&bih=803#imgrc=_6MHw7yGg6vGTM:" /></a>
+ <a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
 <a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
 <section id="accordion">
       <div>
         <input type="checkbox" id="check-1" />
-        <label for="check-1">Tutoriales recomendados para 11 Informática</label>
+        <label for="check-1"><h2>Tutoriales recomendados para 11 Informática</h2></label>
         <article>
          <ul>
  <li><a class="btn btn-link" href="https://www.youtube.com/watch?v=VWM4SHfQ9xk">Formulario en Word </a></li>
