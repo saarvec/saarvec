@@ -6477,14 +6477,14 @@ h2 {
      <!-- <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/INFO.png" class="img-responsive" alt="Responsive image"> -->
         <h1>Sarvec Tutorials!</h1>
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
-        <a href="https://www.facebook.com/infoIHER/"> <img src="https://www.google.hn/search?q=facebook&rlz=1C5CHFA_enHN694HN694&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjl1dvazerTAhUGRiYKHeowCoAQ_AUICigB&biw=1440&bih=803#imgrc=_6MHw7yGg6vGTM:" /></a>
+        <a href="https://www.facebook.com/infoIHER/"> <img src="https://www.google.hn/search?q=facebook&rlz=1C5CHFA_enHN694HN694&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjl1dvazerTAhUGRiYKHeowCoAQ_AUICigB&biw=1440&bih=803#imgrc=_6MHw7yGg6vGTM:" class="img-responsive" alt="Responsive image"/></a>
  <a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
 <a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
 <section id="accordion">
       <div>
         <input type="checkbox" id="check-1" />
-        <label for="check-1"><h2>Tutoriales recomendados para 11 Informática</h2></label>
+        <label for="check-1"><h3>Tutoriales recomendados para 11 Informática</h3></label>
         <article>
          <ul>
  <li><a class="btn btn-link" href="https://www.youtube.com/watch?v=VWM4SHfQ9xk">Formulario en Word </a></li>
@@ -6509,7 +6509,7 @@ h2 {
       
       <div>
         <input type="checkbox" id="check-2" />
-        <label for="check-2">Tutoriales recomendados para 12 Informática</label>
+        <label for="check-2"><h3>Tutoriales recomendados para 12 Informática</h3></label>
         <article>
 <ul>
  <li><a class="btn btn-link" href="https://www.youtube.com/watch?v=Z9UsN1aG7p4&t=29s">BD Access </a></li>
@@ -6524,7 +6524,7 @@ h2 {
       </div>
       <div>
         <input type="checkbox" id="check-3" />
-        <label for="check-3">¿Quieres saber más? Complementos de las clases</label>
+        <label for="check-3"><h3>¿Quieres saber más? Complementos de las clases</h3></label>
         <article>
           <ul>
           <p> Este libro esta recomendado para los estudiantes que se vienen iniciando en la programación</p>
