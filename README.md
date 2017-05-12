@@ -6478,9 +6478,6 @@ h2 {
         <h1>Sarvec Tutorials!</h1>
         <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
         
-             
-
-<a class="btn btn-success"  href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
 <a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
 <section id="accordion">
