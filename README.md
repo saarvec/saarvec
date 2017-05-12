@@ -6526,11 +6526,15 @@ h2 {
       </div>
       <div>
         <input type="checkbox" id="check-3" />
-        <label for="check-3">Complementos</label>
+        <label for="check-3">¿Quieres saber más?, complementos de las clases</label>
         <article>
-          <p>Estamos trabajando en ellos
-          <img src="https://2.bp.blogspot.com/-BAC8Tt04CKo/VzRsgPc1bWI/AAAAAAAAA1c/8YH1DAW2-0MI_dibj0VruFjDaxPsokFGQCLcB/s1600/estamos-trabajando.png" class="img-responsive" alt="Responsive image"></p>
-          
+          <ul>
+          <p> Este libro esta recomendado para los estudiantes que se vienen iniciando en la programación</p>
+ <li><a class="btn btn-link" href="https://drive.google.com/file/d/0Bxb_UnS0cCjyVm13amF0TWM4TVk/view?usp=sharing">Algoritmos, diagramas de flujo y pseudocódigos </a></li>
+  <p> Si te gusta la programación Web este libro será un gran complemento para poder pogramar tu propia página Web de forma dinámica</p>
+ <li><a class="btn btn-link" href="https://drive.google.com/file/d/0Bxb_UnS0cCjyYl9IWEN5OUl5Qnc/view?usp=sharing" >HTML5, CSS y JavaScript </a></li>
+   
+           </ul>
         </article>
       </div>
     </section>
