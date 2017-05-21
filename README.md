@@ -6469,7 +6469,6 @@ h2 {
             <button type="submit" class="btn btn-success">Registrarse</button>
           </form>
         </div><!--/.navbar-collapse -->
-        <a class="btn btn-success" href="HTML5.html" role="button">Facebook &raquo;</a>
       </div>
     </nav>
     <!-- Main jumbotron for a primary marketing message or call to action -->
