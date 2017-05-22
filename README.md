@@ -6456,7 +6456,7 @@ h2 {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <center> <a class="navbar-brand" href="#">INFORMÁTICA IHER</a> </center>
+          <a class="navbar-brand" class="text-right" href="">INFORMÁTICA IHER</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-right" role="form">
