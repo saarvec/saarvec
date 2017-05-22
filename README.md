@@ -6458,8 +6458,7 @@ h2 {
           </button>
     <a class="navbar-brand"  href="">INFORMÁTICA IHER</a>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="#">Inicio</a></li>
+      <li><a href="https://www.youtube.com/?hl=es-419">YouTube</a></li>
       <li><a href="#">HTML5</a></li>
       <li><a href="#">Visual Studio</a></li>
     </ul>
