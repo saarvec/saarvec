@@ -1,5 +1,5 @@
 
-<html class="no-js" lang=""> <!--<![endif]-->
+<html class="no-js" lang="es"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -6456,7 +6456,7 @@ h2 {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#"><h1>INFORMÁTICA IHER</h1></a>
+          <center> <a class="navbar-brand" href="#">INFORMÁTICA IHER</a> </center>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-right" role="form">
