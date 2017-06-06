@@ -6523,7 +6523,9 @@ h2 {
 <li><a class="btn btn-link" href="https://www.youtube.com/watch?v=Sqvp8LJBb74" role="button">Camtasia Studio </a></li>
 <li><a class="btn btn-link" href="https://www.youtube.com/watch?v=grlXG3BzCtc&feature=youtu.be" >BD Visual </a></li>
 <li><a class="btn btn-link" href="https://www.youtube.com/watch?v=ieO9Qie5Yt4" >PhotoShop y Premier</a></li>
-   
+<li><a class="btn btn-link" href="https://www.youtube.com/watch?v=TjAlflSUkQg" >Descargar e instalar NetBeans</a></li>
+<li><a class="btn btn-link" href="https://www.youtube.com/watch?v=iZ4z9EXGut4" >Crear página Web</a></li>
+<li><a class="btn btn-link" href="https://www.youtube.com/watch?v=zZFh1qEbOdw" >Aplicar CSS a página Web</a></li>
            </ul>
         </article>
       </div>
