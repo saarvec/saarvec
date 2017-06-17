@@ -6435,6 +6435,23 @@ h2 {
   height: auto;
   margin-bottom: .125em;
 }
+            .video-responsive {
+position: relative;
+padding-bottom: 56.25%; /* 16/9 ratio */
+padding-top: 30px; /* IE6 workaround*/
+height: 0;
+overflow: hidden;
+}
+
+.video-responsive iframe,
+.video-responsive object,
+.video-responsive embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
 
      
         </style>
@@ -6545,7 +6562,16 @@ PHP 7 incluye importantes mejoras de rendimiento en la ejecución de código, en
             abreviado de teclado o con el menú desplegable.
         </blockquote>
           <p><a class="btn btn-default" href="http://www.adobe.com/la/products/dreamweaver.html" role="button">Más detalles &raquo;</a></p>
-        
+        <hr><h2>Tutoriales para programación Web  HTML5 y CSS3</h2><hr>
+        <div class="”video-responsive”">
+       <iframe src="https://www.youtube.com/embed/TjAlflSUkQg" frameborder="0" allowfullscreen></iframe>
+</div><hr>
+        <div class="”video-responsive”">
+  <iframe src="https://www.youtube.com/embed/iZ4z9EXGut4" frameborder="0" allowfullscreen></iframe>
+</div>
+        <div class="”video-responsive”">
+ <iframe src="https://www.youtube.com/embed/zZFh1qEbOdw" frameborder="0" allowfullscreen></iframe>
+</div>
        <!-- <div class="col-md-4">
           <h2>Programación con Visual Básic</h2>
           <p> </p>
