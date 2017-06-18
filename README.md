@@ -8,6 +8,15 @@
     enable_page_level_ads: true
   });
 </script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Numero1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-1149670573923368"
+     data-ad-slot="8944069932"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Sarvec</title>
