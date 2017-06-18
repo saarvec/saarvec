@@ -6435,7 +6435,23 @@ h2 {
   height: auto;
   margin-bottom: .125em;
 }
+.video-responsive {
+position: relative;
+padding-bottom: 56.25%; /* 16/9 ratio */
+padding-top: 30px; /* IE6 workaround*/
+height: 0;
+overflow: hidden;
+}
 
+.video-responsive iframe,
+.video-responsive object,
+.video-responsive embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
      
         </style>
         
@@ -6499,6 +6515,18 @@ h2 {
           <h2>Novedades de Visual Studio </h2>
           <p>Visual Studio permite escribir código de manera precisa y eficiente sin perder el contexto del archivo actual. Puede acercar fácilmente los detalles, como la estructura de llamadas, las funciones relacionadas, las inserciones en el repositorio y el estado de las pruebas. También puede aprovechar nuestras funciones para refactorizar, identificar y corregir problemas de código.</p>
           <p><a class="btn btn-default" href="#" role="button">Más detalles &raquo;</a></p>
+        
+       <hr> <h2>Tutoriales para programar con Visual Studio</h2>
+      <hr><div class="”video-responsive”">
+<iframe src="https://www.youtube.com/embed/dy9owi3_EfM?list=PLmOBliNqnOEK-2VHxCH9vUUvD2l5F3cVW" frameborder="0" allowfullscreen></iframe>
+        </div><hr>
+        <hr><div class="”video-responsive”">
+ <iframe src="https://www.youtube.com/embed/3U1uH3uPM-4?list=PLmOBliNqnOEK-2VHxCH9vUUvD2l5F3cVW" frameborder="0" allowfullscreen></iframe>
+        </div><hr>
+        <hr><div class="”video-responsive”">
+<iframe src="https://www.youtube.com/embed/pJe-NFl1Dls?list=PLmOBliNqnOEK-2VHxCH9vUUvD2l5F3cVW" frameborder="0" allowfullscreen></iframe>
+        </div><hr>
+        
         
        <!-- <div class="col-md-4">
           <h2>Programación con Visual Básic</h2>
