@@ -9,15 +9,7 @@
   });
 </script>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Numero1 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:336px;height:280px"
-     data-ad-client="ca-pub-1149670573923368"
-     data-ad-slot="8944069932"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Numero2 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -6761,6 +6753,15 @@ h2 {
               
      <p><a class="btn btn-primary btn-lg" href="http://pseint.sourceforge.net/index.php?page=descargas.php" role="button">Descargar &raquo;</a></p>
     <p><a class="btn btn-primary btn-lg" href="https://www.youtube.com/watch?v=yNxiGKIbKl4&index=1&list=PLmOBliNqnOEK-2VHxCH9vUUvD2l5F3cVW" role="button">Tutoriales &raquo;</a></p>
+    <!-- Numero1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-1149670573923368"
+     data-ad-slot="8944069932"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   
           
        <!-- <div class="col-md-4">
