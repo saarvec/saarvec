@@ -6476,6 +6476,7 @@ h2 {
       <li><a href="Pseint.html">Pseint</a></li>
       <li><a href="HTML5.html">HTML5</a></li>
       <li><a href="Visual.html">Visual Studio</a></li>
+      <li><a href="Cursos.html">Cursos Online</a></li>
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
