@@ -1,7 +1,13 @@
 
 <html class="no-js" lang="es"> <!--<![endif]-->
     <head>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <link rel="stylesheet" media="screen" type="text/css" href="normal.css" />
+
+<style type="text/css">
+@media handheld
+body{width:98%;font-family:Verdana;font-size:16px;} 
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-1149670573923368",
