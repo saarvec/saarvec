@@ -6478,6 +6478,7 @@ h2 {
             <span class="icon-bar"></span>
           </button>
     <a class="navbar-brand"  href="">INFORMÁTICA IHER</a>
+     <img src="/assets/brand/bootstrap-solid.svg" width="30" height="30" alt="">
     <ul class="nav navbar-nav">
       <li><a href="Pseint.html">Pseint</a></li>
       <li><a href="HTML5.html">HTML5</a></li>
