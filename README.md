@@ -6483,7 +6483,7 @@ h2 {
       <li><a href="HTML5.html">HTML5</a></li>
       <li><a href="Visual.html">Visual Studio</a></li>
       <li><a href="Cursos.html">Cursos Online</a></li>
-      <li><a href="https://goo.gl/4ekx66"></a>TES</li>
+      <li><a href="https://goo.gl/4ekx66">TES</a></li>
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
