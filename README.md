@@ -6478,8 +6478,9 @@ h2 {
             <span class="icon-bar"></span>
           </button>
     <a class="navbar-brand"  href="">
-    <img src="https://goo.gl/z2msyA" width="30" height="30" alt="">
-    INFORMÁTICA IHER</a>
+     <img src="https://goo.gl/z2msyA" width="30" height="30" class="d-inline-block align-top" alt="">
+     INFORMÁTICA IHER
+    </a>
     <ul class="nav navbar-nav">
       <li><a href="Pseint.html">Pseint</a></li>
       <li><a href="HTML5.html">HTML5</a></li>
