@@ -6484,6 +6484,8 @@ h2 {
       <li><a href="Visual.html">Visual Studio</a></li>
       <li><a href="Cursos.html">Cursos Online</a></li>
       <li><a href="https://goo.gl/4ekx66">TES</a></li>
+      <li><a href="Presencial.html">Cursos Presencial</a></li>
+      
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
