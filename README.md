@@ -6461,11 +6461,11 @@ h2 {
 }
  .image {
     position: relative;
-    padding: 30px;
+    padding: 8 px;
     text-align: center;
     background-color: #ffffff;
     width: 100%;
-    height: 281.812px;
+    height: 300 px;
     background-size: cover;
     overflow: hidden;
 }
@@ -6538,7 +6538,7 @@ h2 {
           <div class = "image">
         <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/pseintLogo.png?raw=true">
         <div class="carousel-caption">
-        <h3> <a href="Pseint.html"> Programming with Pseint</a></h3>
+        <h2> <a href="Pseint.html"> Programming with Pseint</a></h2>
           
         </div>
           </div>
@@ -6548,7 +6548,7 @@ h2 {
           <div class = "image">
         <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/html.jpg?raw=true">
         <div class="carousel-caption">
-          <h3><a href="HTML5.html"> Web Programming</a></h3>
+          <h2><a href="HTML5.html"> Web Programming</a></h2>
         </div>
       </div>
        </div>
@@ -6557,7 +6557,7 @@ h2 {
           <div class = "image">
         <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/Visual.png?raw=true">
         <div class="carousel-caption">
-        <h3><a href="Visual.html"> Programming with Visual Studio</a></h3>
+        <h2><a href="Visual.html"> Programming with Visual Studio</a></h2>
         </div>
       </div>
    </div>
@@ -6566,7 +6566,7 @@ h2 {
           <div class = "image">
         <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/Online.jpg?raw=true">
         <div class="carousel-caption">
-          <h3><a href="Cursos.html">Online courses</a></h3>
+          <h2><a href="Cursos.html">Online courses</a></h2>
         </div>
       </div>
    </div>
@@ -6575,7 +6575,7 @@ h2 {
           <div class = "image">
         <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/workshop.jpg?raw=true">
         <div class="carousel-caption">
-          <h3><a href="Presencial.html">WorkShop</a></h3>
+          <h2><a href="Presencial.html">WorkShop</a></h2>
         </div>
       </div>
    </div>
