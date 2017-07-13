@@ -6465,7 +6465,7 @@ h2 {
     text-align: center;
     background-color: #ffffff;
     width: 100%;
-    height: 280 px;
+    height: 281.812px;
     background-size: cover;
     overflow: hidden;
 }
