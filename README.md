@@ -6459,11 +6459,24 @@ h2 {
   height: auto;
   margin-bottom: .125em;
 }
-
+ .image {
+    position: relative;
+    padding: 30px;
+    text-align: center;
+    background-color: #ffffff;
+    width: 100%;
+    height: 281.812px;
+    background-size: cover;
+    overflow: hidden;
+}
      
         </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
+        
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
@@ -6504,6 +6517,88 @@ h2 {
         </div><!--/.navbar-collapse -->
       </div>
     </nav>
+    
+    <!-- inicio  de sliders  -->
+    
+     <div class="container">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+
+      <div class="item active">
+          <div class = "image">
+        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/pseintLogo.png?raw=true">
+        <div class="carousel-caption">
+        <h3> <a href="Pseint.html"> Programming with Pseint</a></h3>
+          
+        </div>
+          </div>
+      </div>
+
+      <div class="item">
+          <div class = "image">
+        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/html.jpg?raw=true">
+        <div class="carousel-caption">
+          <h3><a href="HTML5.html"> Web Programming</a></h3>
+        </div>
+      </div>
+       </div>
+    
+      <div class="item">
+          <div class = "image">
+        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/Visual.png?raw=true">
+        <div class="carousel-caption">
+        <h3><a href="Visual.html"> Programming with Visual Studio</a></h3>
+        </div>
+      </div>
+   </div>
+        
+        <div class="item">
+          <div class = "image">
+        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/Online.jpg?raw=true">
+        <div class="carousel-caption">
+          <h3><a href="Cursos.html">Online courses</a></h3>
+        </div>
+      </div>
+   </div>
+   
+   <div class="item">
+          <div class = "image">
+        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/workshop.jpg?raw=true">
+        <div class="carousel-caption">
+          <h3><a href="Presencial.html">WorkShop</a></h3>
+        </div>
+      </div>
+   </div>
+        
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+
+    
+    <!-- fin  de sliders  -->
+ 
+ 
+ 
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
