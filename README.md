@@ -6461,11 +6461,11 @@ h2 {
 }
  .image {
     position: relative;
-    padding: 8 px;
+    padding: 30px;
     text-align: center;
     background-color: #ffffff;
     width: 100%;
-    height: 300 px;
+    height: 280 px;
     background-size: cover;
     overflow: hidden;
 }
