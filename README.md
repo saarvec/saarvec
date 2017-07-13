@@ -6573,7 +6573,7 @@ h2 {
    
    <div class="item">
           <div class = "image">
-        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/workshop.jpg?raw=true">
+        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/Workshop_Offering.png?raw=true">
         <div class="carousel-caption">
           <h2><a href="Presencial.html">WorkShop</a></h2>
         </div>
