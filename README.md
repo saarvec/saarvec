@@ -6499,7 +6499,7 @@ h2 {
       <li><a href="HTML5.html">HTML5</a></li>
       <li><a href="Visual.html">Visual Studio</a></li>
       <li><a href="Cursos.html">Cursos Online</a></li>
-      <li><a href="">TES</a></li>
+    <!--  <li><a href="">TES</a></li> -->
       <li><a href="Presencial.html">Talleres</a></li>
       
     </ul>
