@@ -6461,14 +6461,15 @@ h2 {
 }
  .image {
     position: relative;
-    padding: 30px;
+    padding: 5px;
     text-align: center;
-    background-color: #ffffff;
+    background-image: center;
     width: 100%;
-    height: 281.812px;
-    background-size: cover;
-    overflow: hidden;
+    height: 400px;
+    background-size: top;
+    
 }
+
      
         </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
