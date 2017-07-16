@@ -6536,7 +6536,7 @@ h2 {
 
       <div class="item active">
           <div class = "image">
-    <img src="https://goo.gl/DQWAUx" style="width:100%; height: 480px;">
+    <img src="https://goo.gl/DQWAUx" style="width:100%; height: 680px;">
         <div class="carousel-caption">
         <h2> <a href="Pseint.html"> Programming with Pseint</a></h2>
           
@@ -6546,7 +6546,7 @@ h2 {
 
       <div class="item">
           <div class = "image">
-        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/html.jpg?raw=true"style="width:100%; height: 480px;">
+        <img src="https://goo.gl/zek49Y" style="width:100%; height: 680px;">
         <div class="carousel-caption">
           <h2><a href="HTML5.html"> Web Programming</a></h2>
         </div>
@@ -6555,7 +6555,7 @@ h2 {
     
       <div class="item">
           <div class = "image">
-        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/Visual.png?raw=true" style="width:100%; height: 480px;">
+        <img src="https://goo.gl/Ywx9Wg" style="width:100%; height: 680px;">
         <div class="carousel-caption">
         <h2><a href="Visual.html"> Programming with Visual Studio</a></h2>
         </div>
@@ -6564,7 +6564,7 @@ h2 {
         
         <div class="item">
           <div class = "image">
-        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/Online.jpg?raw=true" style="width:100%; height: 480px;">
+        <img src="https://goo.gl/vuZZbt" style="width:100%; height: 680px;">
         <div class="carousel-caption">
           <h2><a href="Cursos.html">Online courses</a></h2>
         </div>
@@ -6573,7 +6573,7 @@ h2 {
    
    <div class="item">
           <div class = "image">
-        <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/Workshop_Offering.png?raw=true" style="width:100%; height: 480px;">
+        <img src="https://goo.gl/KYq8eV" style="width:100%; height: 680px;">
         <div class="carousel-caption">
           <h2><a href="Presencial.html">WorkShop</a></h2>
         </div>
