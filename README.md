@@ -6502,7 +6502,7 @@ h2 {
       <li><a href="Cursos.html">Cursos Online</a></li>
      <li><a href="https://goo.gl/e2Z544">TES</a></li>
       <li><a href="Presencial.html">Talleres</a></li>
-      
+      <li><a href="https://app.schoology.com/register.php?type=student">Aula Virtual</a></li>
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
