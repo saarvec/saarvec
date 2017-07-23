@@ -6510,31 +6510,23 @@ h2 {
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-          <form class="navbar-form navbar-right" role="form">
-            <div class="form-group">
-         <!-- <input type="text" placeholder="Buscar" class="form-control"> -->
-            </div>
-            <div class="form-group">
-             <!--<input type="password" placeholder="Password" class="form-control"> -->
-            </div>
-          <!-- <button type="submit" class="btn btn-success">Buscar</button> -->
+          <form class="navbar-form navbar-left" role="form">
+            
           <!-- Inicio de aula virtual --> 
+           <div class="form-group">
+          
           <div class="btn-group">
-  <button type="button" class="btn btn-default btn-lg dropdown-toggle" style=" background-color: #282828; color: White">Aula Virtual</button>
- 
- <button type="button" class="btn btn-default btn-lg dropdown-toggle"
-          data-toggle="dropdown" style=" background-color: #282828; color: White">
-    <span class="caret"></span>
-    <span class="sr-only">Desplegar menú</span>
+  <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
+    Aula Virtual <span class="caret"></span>
   </button>
  
   <ul class="dropdown-menu" role="menu">
-    <li><a href="https://app.schoology.com/register.php?type=student">Primer Ingreso</a></li>
+   <li><a href="https://app.schoology.com/register.php?type=student">Primer Ingreso</a></li>
     <li class="divider"></li>
     <li><a href="https://app.schoology.com/login">Reingreso</a></li>
   </ul>
 </div>
-      </div>
+        </div>
        <!-- Fin de aula virtual --> 
        
           </form>
