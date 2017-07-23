@@ -6504,10 +6504,10 @@ h2 {
       <li><a href="Presencial.html">Talleres</a></li>
       
       <div class="btn-group">
-  <button type="button" class="btn btn-default" style=" background-color: #282828">Aula Virtual</button>
+  <button type="button" class="btn btn-default" style=" background-color: #282828; color: White">Aula Virtual</button>
  
   <button type="button" class="btn btn-default dropdown-toggle"
-          data-toggle="dropdown">
+          data-toggle="dropdown" style=" background-color: #282828; color: White">
     <span class="caret"></span>
     <span class="sr-only">Desplegar menú</span>
   </button>
