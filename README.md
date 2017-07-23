@@ -6503,7 +6503,23 @@ h2 {
      <li><a href="https://goo.gl/e2Z544">TES</a></li>
       <li><a href="Presencial.html">Talleres</a></li>
       
-      <div class="btn-group">
+      
+      
+      
+      
+    </ul>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right" role="form">
+            <div class="form-group">
+         <!-- <input type="text" placeholder="Buscar" class="form-control"> -->
+            </div>
+            <div class="form-group">
+             <!--<input type="password" placeholder="Password" class="form-control"> -->
+            </div>
+          <!-- <button type="submit" class="btn btn-success">Buscar</button> -->
+          <!-- Inicio de aula virtual --> 
+          <div class="btn-group">
   <button type="button" class="btn btn-default" style=" background-color: #282828; color: White">Aula Virtual</button>
  
   <button type="button" class="btn btn-default dropdown-toggle"
@@ -6519,20 +6535,8 @@ h2 {
   </ul>
 </div>
       </div>
-      
-      
-      
-    </ul>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <form class="navbar-form navbar-right" role="form">
-            <div class="form-group">
-         <!-- <input type="text" placeholder="Buscar" class="form-control"> -->
-            </div>
-            <div class="form-group">
-             <!--<input type="password" placeholder="Password" class="form-control"> -->
-            </div>
-          <!-- <button type="submit" class="btn btn-success">Buscar</button> -->
+       <!-- Fin de aula virtual --> 
+       
           </form>
         </div><!--/.navbar-collapse -->
       </div>
