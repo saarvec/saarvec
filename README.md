@@ -6496,21 +6496,31 @@ h2 {
      INFORMÁTICA IHER
     </a>
     <ul class="nav navbar-nav">
-      <li><a href="Pseint.html">Pseint</a></li>
-      <li><a href="HTML5.html">HTML5</a></li>
-      <li><a href="Visual.html">Visual Studio</a></li>
       <li><a href="Cursos.html">Cursos Online</a></li>
      <li><a href="https://goo.gl/e2Z544">TES</a></li>
       <li><a href="Presencial.html">Talleres</a></li>
-      
-      
-      
-      
-      
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-left" role="form">
+            <!-- Inicio de Programación --> 
+           <div class="form-group">
+          
+          <div class="btn-group">
+  <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
+    Programación <span class="caret"></span>
+  </button>
+ 
+  <ul class="dropdown-menu" role="menu">
+   <li><a href="Pseint.html">Programar con Pseint</a></li>
+    <li class="divider"></li>
+    <li><a href="HTML5.html">Programar HTML</a></li>
+    <li class="divider"></li>
+    <li><a href="Visual.html">Programar con Visual Studio</a></li>
+  </ul>
+</div>
+        </div>
+       <!-- Fin de Programación--> 
             
           <!-- Inicio de aula virtual --> 
            <div class="form-group">
