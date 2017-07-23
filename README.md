@@ -6502,8 +6502,9 @@ h2 {
       <li><a href="Cursos.html">Cursos Online</a></li>
      <li><a href="https://goo.gl/e2Z544">TES</a></li>
       <li><a href="Presencial.html">Talleres</a></li>
+      
       <div class="btn-group">
-  <button type="button" class="btn btn-default">Aula Virtual</button>
+  <button type="button" class="btn btn-default" style=" background-color: #282828">Aula Virtual</button>
  
   <button type="button" class="btn btn-default dropdown-toggle"
           data-toggle="dropdown">
