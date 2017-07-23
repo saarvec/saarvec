@@ -6520,7 +6520,7 @@ h2 {
           <!-- <button type="submit" class="btn btn-success">Buscar</button> -->
           <!-- Inicio de aula virtual --> 
           <div class="btn-group">
-  <button type="button" class="btn btn-default" style=" background-color: #282828; color: White">Aula Virtual</button>
+  <button type="button" class="btn btn-default btn-lg dropdown-toggle" style=" background-color: #282828; color: White">Aula Virtual</button>
  
   <button type="button" class="btn btn-default dropdown-toggle"
           data-toggle="dropdown" style=" background-color: #282828; color: White">
