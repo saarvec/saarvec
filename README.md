@@ -6522,11 +6522,11 @@ h2 {
           <div class="btn-group">
   <button type="button" class="btn btn-default btn-lg dropdown-toggle" style=" background-color: #282828; color: White">Aula Virtual</button>
  
- <!--<button type="button" class="btn btn-default btn-lg dropdown-toggle"
+ <button type="button" class="btn btn-default btn-lg dropdown-toggle"
           data-toggle="dropdown" style=" background-color: #282828; color: White">
     <span class="caret"></span>
     <span class="sr-only">Desplegar menú</span>
-  </button> -->
+  </button>
  
   <ul class="dropdown-menu" role="menu">
     <li><a href="https://app.schoology.com/register.php?type=student">Primer Ingreso</a></li>
