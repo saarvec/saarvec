@@ -6502,22 +6502,7 @@ h2 {
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-center" role="form">
           
-          <!-- Inicio de TES --> 
-           <div class="form-group">
-           
-          <div class="btn-group">
- <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
-    TES<span class="caret"></span>
-  </button>
- 
-  <ul class="dropdown-menu" role="menu">
-   <li><a href="https://goo.gl/e2Z544">Informe de TES</a></li>
-    
-  </ul>
-</div>
-</div>
-        
-       <!-- Fin de TES --> 
+          
           
             <!-- Inicio de Programación --> 
            <div class="form-group">
@@ -6537,6 +6522,23 @@ h2 {
 </div>
         </div>
        <!-- Fin de Programación--> 
+       
+       <!-- Inicio de TES --> 
+           <div class="form-group">
+           
+          <div class="btn-group">
+ <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
+    TES<span class="caret"></span>
+  </button>
+ 
+  <ul class="dropdown-menu" role="menu">
+   <li><a href="https://goo.gl/e2Z544">Informe de TES</a></li>
+    
+  </ul>
+</div>
+</div>
+        
+       <!-- Fin de TES --> 
        
        <!-- Inicio de Talleres --> 
            <div class="form-group">
@@ -6571,6 +6573,23 @@ h2 {
 </div>
         </div>
        <!-- Fin de aula virtual --> 
+       
+       <!-- Inicio de TES --> 
+           <div class="form-group">
+           
+          <div class="btn-group">
+ <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
+    TES<span class="caret"></span>
+  </button>
+ 
+  <ul class="dropdown-menu" role="menu">
+   <li><a href="https://goo.gl/e2Z544">Informe de TES</a></li>
+    
+  </ul>
+</div>
+</div>
+        
+       <!-- Fin de TES --> 
        
        
        
