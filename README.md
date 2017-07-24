@@ -6500,7 +6500,7 @@ h2 {
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-          <form class="navbar-form" role="form">
+          <form class="navbar-form navbar-right" role="form">
           
             <!-- Inicio de Programación --> 
            <div class="form-group">
