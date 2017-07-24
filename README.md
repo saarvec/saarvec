@@ -6504,8 +6504,7 @@ h2 {
           
           <!-- Inicio de TES --> 
           <div class="btn-group">
- <button type="button" class="btn btn-info dropdown-toggle"
-          data-toggle="dropdown">
+ <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
     TES<span class="caret"></span>
   </button>
  
