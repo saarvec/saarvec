@@ -6496,7 +6496,7 @@ h2 {
      INFORMÁTICA IHER
     </a>
     <ul class="nav navbar-nav">
-     <li><a href="https://goo.gl/e2Z544">TES</a></li>
+    
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
@@ -6555,6 +6555,21 @@ h2 {
         </div>
        <!-- Fin de aula virtual --> 
        
+       <!-- Inicio de TES --> 
+           <div class="form-group">
+          
+          <div class="btn-group">
+  <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">TES<span class="caret"></span>
+  </button>
+ 
+  <ul class="dropdown-menu" role="menu">
+   <li><a href="https://goo.gl/e2Z544">Informe de TES</a></li>
+    
+  </ul>
+</div>
+        </div>
+       <!-- Fin de TES --> 
+       
           </form>
         </div><!--/.navbar-collapse -->
       </div>
@@ -6570,7 +6585,7 @@ h2 {
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
       <li data-target="#myCarousel" data-slide-to="3"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Wrapper for slides -->
