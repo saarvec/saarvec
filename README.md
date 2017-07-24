@@ -6502,6 +6502,21 @@ h2 {
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-right" role="form">
           
+          <!-- Inicio de TES --> 
+          <div class="btn-group">
+ <button type="button" class="btn btn-info dropdown-toggle"
+          data-toggle="dropdown">
+    TES<span class="caret"></span>
+  </button>
+ 
+  <ul class="dropdown-menu" role="menu">
+   <li><a href="https://goo.gl/e2Z544">Informe de TES</a></li>
+    
+  </ul>
+</div>
+        
+       <!-- Fin de TES --> 
+          
             <!-- Inicio de Programación --> 
            <div class="form-group">
           
@@ -6555,22 +6570,7 @@ h2 {
         </div>
        <!-- Fin de aula virtual --> 
        
-       <!-- Inicio de TES --> 
-        
-          
-          <div class="btn-group">
- <button type="button" class="btn btn-default dropdown-toggle"
-          data-toggle="dropdown">
-    TES<span class="caret"></span>
-  </button>
- 
-  <ul class="dropdown-menu" role="menu">
-   <li><a href="https://goo.gl/e2Z544">Informe de TES</a></li>
-    
-  </ul>
-</div>
-        
-       <!-- Fin de TES --> 
+       
        
           </form>
         </div><!--/.navbar-collapse -->
