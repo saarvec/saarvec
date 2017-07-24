@@ -6500,9 +6500,11 @@ h2 {
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-          <form class="navbar-form navbar-right" role="form">
+          <form class="navbar-form navbar-center" role="form">
           
           <!-- Inicio de TES --> 
+           <div class="form-group">
+           
           <div class="btn-group">
  <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
     TES<span class="caret"></span>
@@ -6512,6 +6514,7 @@ h2 {
    <li><a href="https://goo.gl/e2Z544">Informe de TES</a></li>
     
   </ul>
+</div>
 </div>
         
        <!-- Fin de TES --> 
