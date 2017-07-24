@@ -6557,19 +6557,20 @@ h2 {
         </div>
        <!-- Fin de aula virtual --> 
        
-       
-       <div class="form-group">
-           
+        <!-- Inicio de aula virtual --> 
+           <div class="form-group">
+          
           <div class="btn-group">
- <button type="button" class="btn btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
-    TES<span class="caret"></span>
+  <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
+    TES <span class="caret"></span>
   </button>
  
   <ul class="dropdown-menu" role="menu">
-   <li><a href="https://goo.gl/e2Z544">Informe de TES</a></li>
+   <li><a href="https://app.schoology.com/register.php?type=student">Primer Ingreso</a></li>
   </ul>
 </div>
-            </div>
+        </div>
+       <!-- Fin de aula virtual --> 
        
           </form>
         </div>  <!--/.navbar-collapse -->
