@@ -6496,7 +6496,7 @@ h2 {
      INFORMÁTICA IHER
     </a>
     <ul class="nav navbar-nav">
-    <li><a href= "http://www.admisiones.unah.edu.hn/Inscripcion2.aspx"> Examen de Admisión UNAH</a></li>
+    <li><a href= "http://www.admisiones.unah.edu.hn/Inscripcion2.aspx">Admisión UNAH</a></li>
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
