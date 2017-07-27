@@ -6551,6 +6551,8 @@ h2 {
   <ul class="dropdown-menu" role="menu">
    <li><a href="https://app.schoology.com/register.php?type=student">Primer Ingreso</a></li>
     <li class="divider"></li>
+    <li><a href="https://youtu.be/BkMQQa7c6rY">Pasos para registrarse</a></li>
+    <li class="divider"></li>
     <li><a href="https://app.schoology.com/login">Reingreso</a></li>
   </ul>
 </div>
