@@ -6567,7 +6567,18 @@ h2 {
       </div>
     </nav>
     
-    <!-- inicio  de sliders  -->
+
+ 
+ 
+ 
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+     <!-- <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/INFO.png" class="img-responsive" alt="Responsive image"> -->
+        <h1>Sarvec Tutorials!</h1>
+        <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
+        
+       <!-- inicio  de sliders  -->
     
      <div class="container">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -6632,16 +6643,7 @@ h2 {
 
     
     <!-- fin  de sliders  -->
- 
- 
- 
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
-      <div class="container">
-     <!-- <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/INFO.png" class="img-responsive" alt="Responsive image"> -->
-        <h1>Sarvec Tutorials!</h1>
-        <p>Esta página Web es para ayudar y motivar aquellas personas que estan interesadas en aprender a utilizar programas Ofimaticos y Programación en General</p>
-   
+    
  <a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
 <a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
 
