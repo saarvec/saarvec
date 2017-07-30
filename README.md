@@ -6465,7 +6465,7 @@ h2 {
     text-align: center;
     background-image: center;
     width: 100%;
-    height: 400px;
+    height: 600px;
     background-size: top;
     
 }
