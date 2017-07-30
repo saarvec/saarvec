@@ -3,7 +3,7 @@
     <head>
     <link rel="stylesheet" media="screen" type="text/css" href="normal.css" />
     <title>sarvec</title>
-   <link rel="shortcut icon" href="favicon.ico.ico.ico" >
+   <link rel="shortcut icon" href="favicon.ico.ico" >
 <style type="text/css">
 @media handheld
 body{width:98%;font-family:Verdana;font-size:16px;} 
