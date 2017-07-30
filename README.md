@@ -6508,7 +6508,7 @@ h2 {
            <div class="form-group">
           
           <div class="btn-group">
-  <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
+  <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
     Programación <span class="caret"></span>
   </button>
  
@@ -6527,7 +6527,7 @@ h2 {
            <div class="form-group">
           
           <div class="btn-group">
-  <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">Cursos<span class="caret"></span>
+  <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">Cursos<span class="caret"></span>
   </button>
  
   <ul class="dropdown-menu" role="menu">
@@ -6544,7 +6544,7 @@ h2 {
            <div class="form-group">
           
           <div class="btn-group">
-  <button type="button" class="btn  btn-lg dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
+  <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
     Aula Virtual <span class="caret"></span>
   </button>
  
@@ -6559,7 +6559,7 @@ h2 {
         </div>
        <!-- Fin de aula virtual --> 
        
-       <a class="btn btn-primary btn-lg" href="https://goo.gl/am38xz" role="button">TES &raquo;</a>
+       <a class="btn btn-primary btn-md" href="https://goo.gl/am38xz" role="button">TES &raquo;</a>
        
           </form>
         </div>  <!--/.navbar-collapse -->
