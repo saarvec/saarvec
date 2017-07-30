@@ -6576,7 +6576,6 @@ h2 {
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
       <li data-target="#myCarousel" data-slide-to="3"></li>
-      <li data-target="#myCarousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Wrapper for slides -->
@@ -6584,49 +6583,37 @@ h2 {
 
       <div class="item active">
           <div class = "image">
-    <img src="https://goo.gl/DQWAUx" style="width:100%;">
+    <img src="http://bit.ly/2tPdv9C" style="width:100%;">
         <div class="carousel-caption">
-        <h2> <a href="Pseint.html"> Programming with Pseint</a></h2>
-          
+        
         </div>
           </div>
       </div>
 
       <div class="item">
           <div class = "image">
-        <img src="https://goo.gl/zek49Y" style="width:100%;">
+        <img src="http://bit.ly/2vVWH1S" style="width:100%;">
         <div class="carousel-caption">
-          <h2><a href="HTML5.html"> Web Programming</a></h2>
         </div>
       </div>
        </div>
     
       <div class="item">
           <div class = "image">
-        <img src="https://goo.gl/Ywx9Wg" style="width:100%;">
+        <img src="http://bit.ly/2vW8a1y" style="width:100%;">
         <div class="carousel-caption">
-        <h2><a href="Visual.html"> Programming with Visual Studio</a></h2>
         </div>
       </div>
    </div>
         
         <div class="item">
           <div class = "image">
-        <img src="https://goo.gl/vuZZbt" style="width:100%; ">
+        <img src="http://bit.ly/2uOoRvW" style="width:100%; ">
         <div class="carousel-caption">
-          <h2><a href="Cursos.html">Online courses</a></h2>
         </div>
       </div>
    </div>
    
-   <div class="item">
-          <div class = "image">
-        <img src="https://goo.gl/KYq8eV" style="width:100%; ">
-        <div class="carousel-caption">
-          <h2><a href="Presencial.html">WorkShop</a></h2>
-        </div>
-      </div>
-   </div>
         
     </div>
 
