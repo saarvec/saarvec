@@ -2,7 +2,7 @@
 <html class="no-js" lang="es"> <!--<![endif]-->
     <head>
     <link rel="stylesheet" media="screen" type="text/css" href="normal.css" />
-    <title>  <img src="https://goo.gl/z2msyA" width="60" height="45" class="d-inline-block align-top" alt=""> sarvec</title>
+    <title>sarvec</title>
    <link rel="shortcut icon" href="/favicon.ico">
 
 <style type="text/css">
