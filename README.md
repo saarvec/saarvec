@@ -3,7 +3,7 @@
     <head>
     <link rel="stylesheet" media="screen" type="text/css" href="normal.css" />
     <title>sarvec</title>
-   <link rel="shortcut icon" href="/Favicon.ico">
+   <link rel="shortcut icon" href="https://github.com/saarvec/saarvec.github.io/blob/master/Favicon.ico">
 
 <style type="text/css">
 @media handheld
