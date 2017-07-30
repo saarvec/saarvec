@@ -6643,6 +6643,7 @@ h2 {
 
     
     <!-- fin  de sliders  -->
+      <hr>
     
  <a class="btn btn-success" href="https://www.facebook.com/infoIHER/" role="button">Facebook &raquo;</a>
 <a class="btn btn-success" href="https://honduras.elmaestroencasa.com/clasesradiales.html" role="button">Programas Radiales &raquo;</a>
