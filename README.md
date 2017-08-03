@@ -6504,8 +6504,7 @@ h2 {
           
           
             <!-- Inicio de Programación --> 
-           <div class="form-group">
-          
+           
           <div class="btn-group">
   <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
     Programación <span class="caret"></span>
@@ -6523,8 +6522,6 @@ h2 {
        <!-- Fin de Programación--> 
         
        <!-- Inicio de Talleres --> 
-           <div class="form-group">
-          
           <div class="btn-group">
   <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">Cursos<span class="caret"></span>
   </button>
@@ -6533,15 +6530,11 @@ h2 {
    <li><a href="Cursos.html">Online</a></li>
     <li class="divider"></li>
     <li><a href="Presencial.html">Presencial</a></li>
-    
   </ul>
 </div>
-        </div>
        <!-- Fin de Talleres--> 
             
           <!-- Inicio de aula virtual --> 
-           <div class="form-group">
-          
           <div class="btn-group">
   <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
     Aula Virtual <span class="caret"></span>
@@ -6555,12 +6548,10 @@ h2 {
     <li><a href="https://app.schoology.com/login">Reingreso</a></li>
   </ul>
 </div>
-        </div>
        <!-- Fin de aula virtual --> 
        
        <a class="btn btn-primary btn-md" href="https://goo.gl/am38xz" role="button">TES &raquo;</a>
-       
-     </div>
+     
         </div>  <!--/.navbar-collapse -->
       </div>
     </nav>
