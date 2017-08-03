@@ -6526,7 +6526,7 @@ h2 {
         
        <!-- Inicio de Talleres --> 
           <div class="btn-group">
-  <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">Cursos<span class="caret"></span>
+  <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">Cursos
   </button>
  
   <ul class="dropdown-menu" role="menu">
@@ -6540,7 +6540,7 @@ h2 {
           <!-- Inicio de aula virtual --> 
           <div class="btn-group">
   <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
-    Aula Virtual <span class="caret"></span>
+    Aula Virtual 
   </button>
  
   <ul class="dropdown-menu" role="menu">
