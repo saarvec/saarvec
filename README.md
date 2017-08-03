@@ -6493,14 +6493,17 @@ h2 {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
+          
     <a class="navbar-brand"  href="">
     <img src="https://goo.gl/z2msyA" width="120" height="90"  style="margin-top: -40px;" alt="">
     </a>
+    
     <ul class="nav navbar-nav">
     <li><a href= "http://www.admisiones.unah.edu.hn/Inscripcion2.aspx">Admisión UNAH</a></li>
     </ul>
+    
         </div>
-        <div id="navbar" class="navbar-collapse collapse">
+        
           
           
             <!-- Inicio de Programación --> 
@@ -6552,7 +6555,7 @@ h2 {
        
        <a class="btn btn-primary btn-md" href="https://goo.gl/am38xz" role="button">TES &raquo;</a>
      
-        </div>  <!--/.navbar-collapse -->
+          <!--/.navbar-collapse -->
       </div>
     </nav>
     
