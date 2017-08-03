@@ -6510,7 +6510,7 @@ h2 {
            
           <div class="btn-group">
   <button type="button" class="btn  btn-md dropdown-toggle" style=" background-color: #282828; color: White" data-toggle="dropdown">
-    Programación <span class="caret"></span>
+    Programación 
   </button>
  
   <ul class="dropdown-menu" role="menu">
