@@ -6501,8 +6501,6 @@ h2 {
     </ul>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-          <form class="navbar-form navbar-center" role="form">
-          
           
           
             <!-- Inicio de Programación --> 
@@ -6562,7 +6560,7 @@ h2 {
        
        <a class="btn btn-primary btn-md" href="https://goo.gl/am38xz" role="button">TES &raquo;</a>
        
-          </form>
+     
         </div>  <!--/.navbar-collapse -->
       </div>
     </nav>
