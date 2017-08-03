@@ -6519,7 +6519,7 @@ h2 {
     <li><a href="Visual.html">Programar con Visual Studio</a></li>
   </ul>
 </div>
-        </div>
+        
        <!-- Fin de Programación--> 
         
        <!-- Inicio de Talleres --> 
@@ -6560,7 +6560,7 @@ h2 {
        
        <a class="btn btn-primary btn-md" href="https://goo.gl/am38xz" role="button">TES &raquo;</a>
        
-     
+     </div>
         </div>  <!--/.navbar-collapse -->
       </div>
     </nav>
