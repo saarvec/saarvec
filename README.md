@@ -6483,7 +6483,7 @@ h2 {
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
     <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="height: 90px">
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="height: 80px">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" 
@@ -6495,7 +6495,6 @@ h2 {
           </button>
     <a class="navbar-brand"  href="">
     <img src="https://goo.gl/z2msyA" width="120" height="90"  style="margin-top: -40px;" alt="">
-     INFORMÁTICA IHER
     </a>
     <ul class="nav navbar-nav">
     <li><a href= "http://www.admisiones.unah.edu.hn/Inscripcion2.aspx">Admisión UNAH</a></li>
