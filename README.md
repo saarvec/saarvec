@@ -6495,7 +6495,8 @@ h2 {
           </button>
           
     <a class="navbar-brand"  href="">
-    <img src="https://goo.gl/z2msyA" width="120" height="90"  style="margin-top: -40px;" alt="">
+    <img src="https://goo.gl/z2msyA" width="120" height="90"  style="margin-top: -40px;" alt="Brand">
+    Informática IHER
     </a>
         </div>
           
