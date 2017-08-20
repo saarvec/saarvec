@@ -6524,8 +6524,7 @@ h2 {
  
   <ul class="dropdown-menu" role="menu">
    <li><a href="Cursos.html">Online</a></li>
-    <li class="divider"></li>
-    <li><a href="Presencial.html">Presencial</a></li>
+  
   </ul>
 </div>
        <!-- Fin de Talleres--> 
