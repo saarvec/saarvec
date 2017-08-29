@@ -6495,7 +6495,7 @@ h2 {
           </button>
           
     <a class="navbar-brand"  href="http://sarvec.me/">
-   <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/logo.png?raw=true" width="240" height="120" class="d-inline-block align-top"  style="margin-top: -30px;" alt="">
+   <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/logo.png?raw=true" width="200" height="90" class="d-inline-block align-top"  style="margin-top: -30px;" alt="">
     </a>
         </div>
           
