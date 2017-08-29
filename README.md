@@ -6483,7 +6483,7 @@ h2 {
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
     <body>
-    <nav class="navbar navbar-toggleable-lg navbar-inverse  bg-faded   navbar-fixed-top " role="navigation" style="height: 80px">
+   <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation"  style="height: 80px">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" 
@@ -6495,7 +6495,7 @@ h2 {
           </button>
           
     <a class="navbar-brand"  href="">
-   <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/IHER-blanco.png?raw=true" width="260" height="90" class="d-inline-block align-top"  style="margin-top: -30px;" alt="">
+   <img src="https://github.com/saarvec/saarvec.github.io/blob/master/public_html/IHER-blanco.png?raw=true" width="240" height="120" class="d-inline-block align-top"  style="margin-top: -30px;" alt="">
     </a>
         </div>
           
