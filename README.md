@@ -6774,11 +6774,6 @@ h2 {
              <br>Esta es una fuente libre, abierta, y la comunidad a gran escala se forma consistente 
              en los usuarios y desarrolladores de todo el mundo. 
         <p><a class="btn btn-primary btn-lg" href="https://netbeans.org/downloads/" role="button">Descargar &raquo;</a></p>
-          <a class="typeform-share button" href="https://sarvec.typeform.com/to/KrtEGT" data-mode="popup" 
-       data-auto-open=true data-hide-headers=true target="_blank"> </a> 
-       <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, 
-               gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; 
-               if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
           <h2>Adobe Dreamweaver</h2>
 <p><a class="btn btn-primary btn-lg" href="http://www.adobe.com/la/products/dreamweaver.html" role="button">Descargar &raquo;</a></p>
           
