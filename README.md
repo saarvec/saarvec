@@ -16,7 +16,7 @@ body{width:98%;font-family:Verdana;font-size:16px;}
   });
 </script>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<a class="typeform-share button" href="https://sarvec.typeform.com/to/KrtEGT" data-mode="popup" data-auto-open=true data-hide-headers=true target="_blank"> </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+
 <!-- Numero2 -->
 <ins class="adsbygoogle"
      style="display:block"
