@@ -6704,6 +6704,11 @@ h2 {
               (imagen, vídeo, script, entre otros.), este no se incrusta directamente en el código de la página, 
               sino que se hace una referencia a la ubicación de dicho elemento mediante texto.</p>
           <p><a class="btn btn-default" href="" role="button">Más detalles &raquo;</a></p>
+            <a class="typeform-share button" href="https://sarvec.typeform.com/to/KrtEGT" data-mode="popup" 
+       data-auto-open=true data-hide-headers=true target="_blank"> </a> 
+       <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, 
+               gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; 
+               if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
         </div>
         <div class="col-md-4">
           <h2>Programación con Visual Básic</h2>
