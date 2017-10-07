@@ -6543,6 +6543,8 @@ h2 {
        <!-- Fin de aula virtual --> 
        
        <a class="btn btn-primary btn-md" href="https://goo.gl/am38xz" role="button">TES &raquo;</a>
+       <a class="btn btn-primary btn-md" href="https://drive.google.com/open?id=0Bxb_UnS0cCjyWlZaZUdEcXZ5T0E" role="button">Informe de Práctica &raquo;</a>
+     
      
           <!--/.navbar-collapse -->
       </div>
